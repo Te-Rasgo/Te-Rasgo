@@ -13,6 +13,6 @@ Hi there, I'm Thiago!<br>Tech student at ETEC, Java and web enthusiast in privat
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Te-Rasgo&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=jose9821&icon=5&color=7)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Te-Rasgo&icon=5&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
