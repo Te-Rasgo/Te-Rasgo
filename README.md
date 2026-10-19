@@ -1,5 +1,5 @@
 # About Me:
-Hi there, I'm Thiago!<br>Tech student at ETEC, Java and web enthusiast in private. I'm finishing my IT technical degree at ETEC and getting ready to get into Software Engineering probably on UFABC or FSA here near region ABC, or Software Development Multiplatform in Mauá FATEC.<br>I love working with the backend with Java an Python, but I can easily work with HTML, CSS, JS, PHP or Docker. Also, i want to learn C/C++ language.<br>I also know read and speak and English, but i didn't make a course yet (it'a one of my objectives)
+Hi there, I'm Thiago!<br>Tech student at ETEC, Java and web enthusiast in private. I'm finishing my IT technical degree at ETEC and getting ready to get into Software Engineering probably on UFABC or FSA here near region ABC, or Software Development Multiplatform in Mauá FATEC.<br>I love working with the backend with Java and Python, but I can easily work with HTML, CSS, JS, PHP or Docker. Also, i want to learn C/C++ language.<br>I also know read and speak and English, but i didn't make a course yet (it'a one of my objectives)
 
 
 ## 🌐 Socials:
